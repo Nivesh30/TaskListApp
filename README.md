@@ -12,4 +12,4 @@ A simple task list web application.
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Nivesh30/TaskListApp
